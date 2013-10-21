@@ -2,5 +2,9 @@
   "name": "abracadabra",
   "version": "0.0.0",
   "description": "abrakadabra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feisty/abrakadabra"
+  },
   "license": "WTFPL"
 }
